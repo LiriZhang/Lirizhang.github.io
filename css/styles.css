@@ -1,0 +1,40 @@
+/* Global Styles */
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Header Section */
+.header {
+    height: 100vh;
+    background: url('../assets/images/header-bg.jpg') no-repeat center center/cover;
+}
+
+/* Features */
+.features {
+    padding: 5rem 0;
+}
+
+.feature-box img {
+    width: 100px;
+    height: auto;
+}
+
+/* About Section */
+.about img {
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+/* Contact */
+.contact {
+    background-color: #f8f9fa;
+    padding: 3rem 0;
+}
+
+.footer {
+    background-color: #222;
+    color: #fff;
+}
